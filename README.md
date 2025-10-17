@@ -2,7 +2,7 @@
 
 This repository contains projects completed during my Software Development Internship, showcasing hands-on experience in Python programming, data analysis, and machine learning. All projects are implemented using Python and popular libraries like pandas, NumPy, matplotlib, scikit-learn, TensorFlow, and NLP libraries.
 
-Projects
+Projects 
 1. Stock Price Prediction
 
 Predict future stock prices using historical data with LSTM (Long Short-Term Memory) networks.
