@@ -1,0 +1,114 @@
+[
+  {
+    "timestamp": "2025-10-17T16:51:19.076864",
+    "user_message": "hii",
+    "bot_response": "\ud83d\ude10 I see, thanks for sharing your thoughts. (neutral tone detected)",
+    "sentiment": "neutral",
+    "confidence_score": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T16:51:29.031341",
+    "user_message": "who are you",
+    "bot_response": "\ud83d\ude10 I see, thanks for sharing your thoughts. (neutral tone detected)",
+    "sentiment": "neutral",
+    "confidence_score": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T16:51:37.770426",
+    "user_message": "i am sad",
+    "bot_response": "\ud83d\ude14 I'm sorry you're feeling that way. (confidence: 0.49)",
+    "sentiment": "negative",
+    "confidence_score": -0.48602
+  },
+  {
+    "timestamp": "2025-10-17T16:51:43.264673",
+    "user_message": "i am happy",
+    "bot_response": "\ud83d\ude0a I'm happy that you're feeling positive! (confidence: 0.66)",
+    "sentiment": "positive",
+    "confidence_score": 0.6631400000000001
+  },
+  {
+    "timestamp": "2025-10-17T16:51:56.043883",
+    "user_message": "i am fine and confident",
+    "bot_response": "\ud83d\ude0a I'm happy that you're feeling positive! (confidence: 0.55)",
+    "sentiment": "positive",
+    "confidence_score": 0.5507733333333333
+  },
+  {
+    "timestamp": "2025-10-17T16:52:05.928790",
+    "user_message": "i am negative",
+    "bot_response": "\ud83d\ude14 I'm sorry you're feeling that way. (confidence: 0.46)",
+    "sentiment": "negative",
+    "confidence_score": -0.46313999999999994
+  },
+  {
+    "timestamp": "2025-10-17T16:52:12.748942",
+    "user_message": "sad",
+    "bot_response": "\ud83d\ude14 I'm sorry you're feeling that way. (confidence: 0.49)",
+    "sentiment": "negative",
+    "confidence_score": -0.48602
+  },
+  {
+    "timestamp": "2025-10-17T16:52:16.097332",
+    "user_message": "feel",
+    "bot_response": "\ud83d\ude10 I see, thanks for sharing your thoughts. (neutral tone detected)",
+    "sentiment": "neutral",
+    "confidence_score": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T16:52:24.921101",
+    "user_message": "sorrow",
+    "bot_response": "\ud83d\ude14 I'm sorry you're feeling that way. (confidence: 0.32)",
+    "sentiment": "negative",
+    "confidence_score": -0.31601999999999997
+  },
+  {
+    "timestamp": "2025-10-17T16:52:28.925753",
+    "user_message": "angry",
+    "bot_response": "\ud83d\ude14 I'm sorry you're feeling that way. (confidence: 0.51)",
+    "sentiment": "negative",
+    "confidence_score": -0.50636
+  },
+  {
+    "timestamp": "2025-10-17T16:52:46.085981",
+    "user_message": "i missed",
+    "bot_response": "\ud83d\ude14 I'm sorry you're feeling that way. (confidence: 0.18)",
+    "sentiment": "negative",
+    "confidence_score": -0.17759999999999998
+  },
+  {
+    "timestamp": "2025-10-17T16:52:50.223096",
+    "user_message": "i found",
+    "bot_response": "\ud83d\ude10 I see, thanks for sharing your thoughts. (neutral tone detected)",
+    "sentiment": "neutral",
+    "confidence_score": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T16:53:03.828171",
+    "user_message": "good mrg",
+    "bot_response": "\ud83d\ude0a I'm happy that you're feeling positive! (confidence: 0.54)",
+    "sentiment": "positive",
+    "confidence_score": 0.54424
+  },
+  {
+    "timestamp": "2025-10-17T16:53:10.154411",
+    "user_message": "gud evg",
+    "bot_response": "\ud83d\ude10 I see, thanks for sharing your thoughts. (neutral tone detected)",
+    "sentiment": "neutral",
+    "confidence_score": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T16:53:19.449942",
+    "user_message": "bad boy",
+    "bot_response": "\ud83d\ude14 I'm sorry you're feeling that way. (confidence: 0.61)",
+    "sentiment": "negative",
+    "confidence_score": -0.60538
+  },
+  {
+    "timestamp": "2025-10-17T16:53:23.936035",
+    "user_message": "bye",
+    "bot_response": "\ud83d\ude10 I see, thanks for sharing your thoughts. (neutral tone detected)",
+    "sentiment": "neutral",
+    "confidence_score": 0.0
+  }
+]
